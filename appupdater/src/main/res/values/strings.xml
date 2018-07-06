@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">appUpdater</string>
+    <string name="ERROR_CANNOT_RESUME">Error in resuming the download</string>
+    <string name="ERROR_DEVICE_NOT_FOUND">No external storage device was found.</string>
+    <string name="ERROR_FILE_ALREADY_EXISTS">File already exists</string>
+    <string name="ERROR_FILE_ERROR">File error occurred</string>
+    <string name="ERROR_HTTP_DATA_ERROR">Error fetching the data</string>
+    <string name="ERROR_INSUFFICIENT_SPACE">Insufficient storage space</string>
+    <string name="ERROR_TOO_MANY_REDIRECTS">Error while redirecting</string>
+    <string name="PAUSED_QUEUED_FOR_WIFI">The download might exceeds a size limit for downloads over the mobile network, please try switching to WIFI.</string>
+    <string name="PAUSED_UNKNOWN">Download paused</string>
+    <string name="PAUSED_WAITING_FOR_NETWORK">Download paused, plese check your netword connectivity</string>
+    <string name="PAUSED_WAITING_TO_RETRY">Retrying the download</string>
+    <string name="STATUS_PENDING">Download is waiting to start</string>
+    <string name="STATUS_RUNNING">Download is under process</string>
+    <string name="STATUS_SUCCESSFUL">Download has completed successfully</string>
+
+</resources>
